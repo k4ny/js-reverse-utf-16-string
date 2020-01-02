@@ -1,0 +1,12 @@
+{
+  "name": "js-reverse-utf-16-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/k4ny/js-reverse-utf-16-string.git",
+  "author": "k4ny",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.7.4"
+  }
+}
